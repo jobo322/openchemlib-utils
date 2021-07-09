@@ -1,4 +1,5 @@
 export * from './diastereotopic/addDiastereotopicMissingChirality';
+export * from './diastereotopic/getExtendedDiastereotopicAtomIDs';
 export * from './diastereotopic/getDiastereotopicAtomIDs';
 export * from './diastereotopic/getDiastereotopicAtomIDsAndH';
 export * from './diastereotopic/toDiastereotopicSVG';
